@@ -28,12 +28,6 @@ EShop is a comprehensive e-commerce solution that aims to provide an outstanding
 
 - **Admin Panel:** The admin panel empowers administrators to oversee incoming orders, manage product information, address customer inquiries, and maintain the platform efficiently.
 
-## Deployment
-
-Client: [eshopclient.azurewebsites.net](eshopclient.azurewebsites.net)
-
-Server: [eshopserver.azurewebsites.net](eshopserver.azurewebsites.net)
-
 ## Prerequisites
 
 Before you proceed with the installation, make sure you have the following prerequisites:
@@ -45,15 +39,3 @@ Before you proceed with the installation, make sure you have the following prere
 
 ## Installation
 
-To install eShop on your system, follow these steps:
-
-1. Clone the repository: `[git clone https://github.com/vams/eShop.git](https://github.com/vamsi3379/EShop.git)`
-2. Navigate to the project folder: `cd EShop`
-3. Build the application: `dotnet build`
-4. Run the application: `dotnet run`
-
-## Swagger API Documentation
-
-Explore the eShop API documentation using Swagger:
-
-- [Swagger API Documentation](eshopapis.azurewebsites.net)
